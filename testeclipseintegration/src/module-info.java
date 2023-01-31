@@ -1,0 +1,2 @@
+module testeclipseintegration {
+}
